@@ -1,3 +1,5 @@
+;   Syntax compatible with as31. (a free 8051 assembler by Ken Stauffer)
+;
 ;   Original SN-360 firmware by Slawomir Nienaltowski (Atari Studio) 1992
 ;   This firmware by: Michal Szwaczko (WireLabs) 1997,1998,2006-2009
 ;   Reverse-engineered from bare metal, cracked, fixed and enhanced
