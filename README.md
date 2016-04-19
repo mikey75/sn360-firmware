@@ -14,9 +14,9 @@ just a reverse + hacks. Still, pity they hadn't done same in 1990's :)
 **Thanks to:** _drac030, seban, trub_
 
 ### Drive Memory map:
-0x0000-0x0003 - 2797 Registers (status/command, track, sector, data)
-0x8000-0x80FF - internal drive buffer, data from drive/sectors
-0x8100-0x81FF - external buffer , anything read from atari
+0x0000-0x0003 - 2797 Registers (status/command, track, sector, data)  
+0x8000-0x80FF - internal drive buffer, data from drive/sectors  
+0x8100-0x81FF - external buffer , anything read from atari  
 
 ### Fixes:
 * fixed '80 tracks in PERCOM' bug, for 360k 5.25 drives
